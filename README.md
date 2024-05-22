@@ -40,6 +40,6 @@ To learn more about Blender, take a look at the following resources:
 
 ## Deploy on Vercel
 
-Check out my [War Helicopter ]()
+Check out my [War Helicopter](https://war-helicopter.vercel.app/)
 
 
