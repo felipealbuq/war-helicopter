@@ -11,8 +11,7 @@ First, clone this repository:
 https://github.com/felipealbuq/war-helicopter.git
 ```
 
-Open the file war-helicopter.blend and see the result. You can see smooth takeoffs,
-complemented by realistc textures and shading.
+Open the file war-helicopter.blend in the objects folder and see the result. You can see smooth takeoffs, complemented by realistc textures and shading.
 
 
 ## Animation from Blender Renderer
@@ -23,11 +22,7 @@ https://github.com/felipealbuq/war-helicopter/assets/60708056/7320afad-b12a-4916
 
 ## ThreeJS Preview
 
-
 https://github.com/felipealbuq/war-helicopter/assets/60708056/84338710-a2f1-4353-923b-e77ca4d5e973
-
-
-
 
 
 ## Learn More
